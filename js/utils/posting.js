@@ -2,8 +2,7 @@
 
 export default async function postToFacebook(text, imageUrl) {
   // Replace YOUR_APP_ACCESS_TOKEN with your Facebook App access token
-  const accessToken = "EAAQxN8BLi3gBAH1RxnHfgAMUDtqYVX8IhZBPX578ywZCkcUSqvjWrZBaFi2jWTOptjaoJvNwD285QHZCtPVjzm8wI9c4j7JKSFgdoU084caa3BommowTw5nR7GwOfuUwfv5BPZCzIRCAWrFJrTWA33p07TFarW3sCZCr6wtt436f3p2g6u2Ph6cIJI1wXNpwAZD";
-
+  const accessToken ='EAAQxN8BLi3gBACpkSBJV7wdyAEZCpZAncHfDok6YBtdV8gaS1PKLLUvxdLCha46uxvhcIp5B9NNUJzbHiwiMaPi11zZAXN6w73Bh27XAOstT7Ccu7PdqSya7kjx7yIRFShaR52qDF'+'i0cvHWdoEQUEXAY0M5kneGpZAs7jxo95fQJqUNLMeDwKk1o9EDU12MZD'
   // Replace YOUR_PAGE_ID with the ID of your Facebook Page
   const pageId = "104461962564494";
 
